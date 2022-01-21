@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Love u Ipek!</title>
+        <title>Ozcan Ozgur</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="google-site-verification" content="9ztrFaH9SagriZscLtd90OFgNDGyS-Wr8p-RzjTyLOs" />
       </Head>
